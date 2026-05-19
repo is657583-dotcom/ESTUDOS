@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+#principal {
+    background-color: #6a28c2;
+    color: white;
+    text-align: center;
+}
+
+.basico{
+    color: rgb(154, 240, 69);
+    background-color: blanchedalmond;
+    padding: auto;
+    border-radius: 10px;
+    font-family: sans-serif;
+
+}
+.intermediario{
+    color: rgb(211, 211, 63);
+    background-color: beige;
+}
+.avancado{
+    color: rgb(226, 67, 67);
+    background-color: bisque;
+
+}

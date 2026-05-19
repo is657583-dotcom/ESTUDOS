@@ -1,0 +1,20 @@
+TEÓRICOS:
+1- Estrutura de dados e algorítmos
+2- System design
+3- Arquitetura de software - ddd, hexagonal
+4- Segurança - OWASP, auth. (autenticação)
+
+PRÁTICO:
+1- Back-end - NPM, web server.
+2- Front-end - HTML, CSS, JS, React e NextJs
+3- Deploy - Githun Actions
+4- SO e infra - Processos, threads, memória
+5- Rede - DNS, proxies, load balancers
+6- Mensageria - Kafka, rabbitMQ
+7- Concorrência - Locks, Threads
+8- Banco de dados - SQL, noSQL, Sharding, replicação
+9- Cloud - AWS e heroku
+10- Infra as code - Terraform e Ansible
+11- Testes - Unitários e integração
+12- Observabilidade - Logs, métricas, trace
+

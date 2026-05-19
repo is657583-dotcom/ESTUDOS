@@ -1,0 +1,99 @@
+Estudos
+
+nomes: caracter
+idade : inteiro = números inteiros sem casas decimais 
+altura: real = usado para números com casas decimais
+
+Java
+Head-> configurações 
+body-> o corpo do site, tudo oq vc enxerga ao entrar no site
+
+caracteres é chamado de = string obs (uma string e colocado entre aspas duplas)
+numbers é usado para números inteiros
+doble é usado para números quebrados
+console.log é como se fosse um printf
+const= uma variável constante, não pode ser definido um novo valor
+let= uma variável que pode ser definido um novo valor quantas vezes quiser
+boolean -> usado true ou false para saber se ou não uma informação
+Object -> uusado para guarda varias informações sem precisar ficar criando muitas variáveis
+Null & Undefined -> null eu defino para deixar uma informação vazia
+Array -> array e tipo um object mas vc não precisa criar varias variáveis pode guarda todos os dados dentro de um array, é possível pedir somente uma informação de varias dentro de um array usando [] e botando o numero da posição que você quer
+(``) usado para escrever textos dentro de variáveis mas, quando a crase é permitido pular linhas sem quebrar o código
+se usar ${} no meio de um texto com crase e possível chamar uma variável é chamado de (template swing)
+function -> função so é executada quando for chamada é uma função void do tipo que não retorna nada, funções void são aquelas que não tem o return 0
+color -> cor dos textos
+background -> cor de fundo
+font weight -> grossura do texto
+span -> serve pra selecionar um pedaço de texto pra mudar uma cor ou algo do tipo
+textarea ->
+rows -> linhas
+boder -> troca a cor da borda
+boder radius -> arredondar a borda 
+
+Programação C
+
+char= usado para caracteres
+int= usado para números inteiros 
+float= usado para números com casas decimais
+printf= serve para imprimir o comando
+
+// Operador de incremento é representado por ++ serve para aumentar o valor de uma variável em 1 ( int x =5, x++;) =6
+// Operador E é representado por && exemplo de uso   ( if  (idade >=18) && (altura >= 1.50))
+// Operador OU é representado por ||
+// Operador de Comparação é representado por ==
+if= condição verdadeira
+else= condição falsa
+printf= exibir o comando
+
+Para usar um operador e preciso usar um condicional
+Sempre que tiver uma operação sendo dividida por outra pode resultar em números decimais então é usado o = float
+
+(%0.1) usado para mostrar quantas casas vai aparecer depois do numero inteiro 
+(%d) significa que é numero inteiro
+(%f) usado para contar números quebrados
+(%s) s de string, usado para pedir caracteres
+(%c) uma string que so precisa de uma letra, nessa string so vai ma letra
+(/n) usado para quebrar pular a linha
+(strcmp) usado para comparar variáveis
+(*) significa um ponteiro ele aponta para algum lugar, ele pode apontar para um endereço de memoria 
+(=) usado para atribuir um valor
+(&) endereço, usado para chamar um endereço
+(for) Laço de repetição, é usado sempre que é preciso repetir algo
+(scanf) Ela permite que você capture valores e armazene em variáveis.
+(if) usado para tomar decisões de códigos ou executar algo somente se for verdadeiro
+(struct) é uma estrutura que permite agrupar varias variáveis
+(while) laço de repetição, ele repete quando a condição é verdadeira
+(void) função que nao  retorna nenhum valor
+(i) contador de linhas
+(j) contador de colunas
+
+Vetores é usado para armazenar os dados ex
+
+
+int idades[4]:
+int cont:
+
+for (cont = 0: cont <= 4; cont++){
+printf("Informe a idade da pessoa %d: ", cont):
+scanf("%d", &idades[cont]);
+
+
+for (cont = 0: cont <= 4; cont++){
+printf("Pessoa %d: Idade: %d"] cont, idades[cont]);
+
+
+Manipulações de Dados no vetor
+
+estudar -> logica de programação, estrutura de pensamento, resolução de problemas e arquitetura de software, controle de versão git github
+palavra chave 
+
+1 improvavel
+2 redbull
+
+
+
+
+
+
+https://devclub.notion.site/Materiais-de-APOIO-57c8b47e3e284583b0a54cdd941c9550
+
